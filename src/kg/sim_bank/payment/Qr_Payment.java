@@ -4,5 +4,7 @@ public class Qr_Payment {
     public static void main(String[] args) {
 
         System.out.println("QR payment");
+
+        System.out.println("Hello world");
     }
 }
